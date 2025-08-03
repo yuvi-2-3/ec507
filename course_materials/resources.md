@@ -24,6 +24,7 @@ There are a bunch of free and high quality materials on the web that can help yo
 - [Why and how to write Python functions](https://youtu.be/zvzjaqMBEso)
 
 
+
 # Pandas + NumPy + Matplotlib 
 
 - [A good Introduction to Pandas](https://www.youtube.com/watch?v=dcqPhpY7tWk)
