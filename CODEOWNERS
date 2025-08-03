@@ -34,5 +34,3 @@
 */**/*.yml      @subdroid
 */**/*.sh       @subdroid
 */**/*.bash     @subdroid
-*/**/*.dockerfile @subdroid
-*/**/*.docker-compose @subdroid
