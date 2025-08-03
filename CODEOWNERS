@@ -1,0 +1,38 @@
+#
+# pattern:
+#
+# file/directory:       user
+#
+
+
+*.py       @subdroid
+*.ipynb    @subdroid
+*.txt      @subdroid
+*.md       @subdroid
+*.json     @subdroid
+*.yaml     @subdroid
+*.yml      @subdroid
+*.sh       @subdroid
+*.bash     @subdroid
+*.dockerfile @subdroid
+*.docker-compose @subdroid
+*.gitignore @subdroid
+*.gitlab-ci.yml @subdroid
+*.github/workflows/* @subdroid
+*.github/ISSUE_TEMPLATE/* @subdroid
+*.github/PULL_REQUEST_TEMPLATE/* @subdroid
+*.github/CODEOWNERS @subdroid       
+
+
+
+*/**/*.py       @subdroid
+*/**/*.ipynb    @subdroid
+*/**/*.txt      @subdroid
+*/**/*.md       @subdroid
+*/**/*.json     @subdroid
+*/**/*.yaml     @subdroid
+*/**/*.yml      @subdroid
+*/**/*.sh       @subdroid
+*/**/*.bash     @subdroid
+*/**/*.dockerfile @subdroid
+*/**/*.docker-compose @subdroid
